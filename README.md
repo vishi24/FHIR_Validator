@@ -23,7 +23,7 @@ cd FHIR_Validator
 
 Download FHIR validator jar from https://github.com/hapifhir/org.hl7.fhir.core/releases/latest/download/validator_cli.jar
 
-Place the downloaded jar in the cloned repository.
+Place the downloaded jar in the root folder of the cloned repository.
 
 ### Place All the Profiles to Be Validated in the FHIR_bundles Directory:
 
