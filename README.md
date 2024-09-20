@@ -38,7 +38,7 @@ In the cloned folder, type powershell in the address bar and hit enter to open P
 Execute the script by typing:
 
 ```
- .\Validator.sh
+sh .\Validator.sh
 ```
 
 **For Other Systems:**
